@@ -1,6 +1,6 @@
 # MobiFM
 
-<img src="./framework.png" >
+<img src="./experiments/framework.png" >
 
 1. **Code Description**  
    Provides training code for running the MobiFM **backbone** network.
